@@ -20,5 +20,6 @@ dependencies:
   - pytorch::torchtext
   - pytorch::torchvision
   - pytorch::torchdata
+  - handcalcs
   - pip:
     - -r requirements.txt
